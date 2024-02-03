@@ -15,15 +15,11 @@
   font-size: 15px;
 }
 
-.small-card-title > h2{
-  align-self: center;
-}
-
 .small-card-date > p{
   color: grey;
 }
 
 
 .small-card-picture, .small-card-picture img{
-  height: 100%;
+  width: 160px;
 }
